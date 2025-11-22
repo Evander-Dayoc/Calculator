@@ -2,7 +2,7 @@
 
 class Program {
    static void Main(string[] args) {
-      Console.Write("Hello World ");
+      Console.Write("Hello Mother Earth ");
       string name = Console.ReadLine();
       Console.WriteLine("Hello, " + name + "!");
    }
